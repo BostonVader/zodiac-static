@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-20",
+  "data": {
+    "Aries": "Error retrieving horoscope",
+    "Taurus": "Error retrieving horoscope",
+    "Gemini": "Error retrieving horoscope",
+    "Cancer": "Error retrieving horoscope",
+    "Leo": "Error retrieving horoscope",
+    "Virgo": "Error retrieving horoscope",
+    "Libra": "Error retrieving horoscope",
+    "Scorpio": "Error retrieving horoscope",
+    "Sagittarius": "Error retrieving horoscope",
+    "Capricorn": "Error retrieving horoscope",
+    "Aquarius": "Error retrieving horoscope",
+    "Pisces": "Error retrieving horoscope"
+  }
+}
